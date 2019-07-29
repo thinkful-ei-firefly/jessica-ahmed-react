@@ -11,7 +11,7 @@ function Resume () {
         <li>University of connecticut</li>
       </ul>
     </section>
-    <hr>
+    <hr />
     <section>
       <h2>Employment History</h2>
       <ul>
@@ -36,7 +36,7 @@ function Resume () {
 
       </ul>
     </section>
-    <hr>
+    <hr />
     <section>
       <h2>Skills</h2>
       <table>
@@ -55,13 +55,13 @@ function Resume () {
       </table>
     </section>
   
-  <hr>
+  <hr />
   <address>
     <p><strong>Contact Info</strong>
-      <p>
+      </p>
         <table>
           <tr>
-            <td><img src="https://www.vyond.com/wp-content/uploads/2018/04/Megan_Creegan.jpg" alt="Sally picture"></td>
+            <td><img src="https://www.vyond.com/wp-content/uploads/2018/04/Megan_Creegan.jpg" alt="Sally picture" /></td>
             <td>
               <ul>
                 <li>
